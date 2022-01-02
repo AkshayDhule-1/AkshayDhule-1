@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayDhule-1
-- 🎓 studing in VNIT, Nagpur.
-- 👀 interested in new technologies.
-- 🌱 currently learning competitive programming
+- 🎓 I’m studing in VNIT, Nagpur.
+- 👀 I’m interested in new technologies.
+- 🌱 I’m currently learning competitive programming
 - 
 - 📫 How to reach me -
 -   linkdn-https://www.linkedin.com/in/akshay-dhule-72442318b
