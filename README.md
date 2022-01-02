@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshayDhule-1
-- 🎓 I’m studing in VNIT, Nagpur.
+- 🎓 I’m studying in VNIT, Nagpur.
 - 👀 I’m interested in new technologies.
 - 🌱 I’m currently learning competitive programming
 - 
