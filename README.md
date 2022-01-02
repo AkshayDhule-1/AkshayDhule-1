@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AkshayDhule-1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎓 I’m studing in VNIT, Nagpur.
+- 👀 I’m interested in new technologies.
+- 🌱 I’m currently learning competitive programming
+- 
+- 📫 How to reach me -
+-   linkdn-https://www.linkedin.com/in/akshay-dhule-72442318b
 
 <!---
 AkshayDhule-1/AkshayDhule-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
